@@ -1,4 +1,0 @@
-﻿D:\Program\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (testchess.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  chess.cpp
-D:\Project\Sem3\testchess\testchess\chess.cpp(267,10): warning C4101: s: неиспользованная локальная переменная
-  testchess.vcxproj -> D:\Project\Sem3\testchess\x64\Debug\chess.exe
